@@ -1,0 +1,4 @@
+1234,Mamat,010203,20,jalan bambam usm sungai ,01234566,10000,Saving,Wed Dec 13 16:19:11 2023
+,1,0
+4321,mat ,123456,21,usm sungai tasek padang,123456,0,Current,Wed Dec 13 16:32:22 2023
+,1,0
